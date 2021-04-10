@@ -1,5 +1,5 @@
 ---
-title: "bash-completionで ssh コマンドなどの補完を強化してみる"
+title: "bash-completionで ssh コマンドなどの補完を強化してみ"
 emoji: "📝"
 type: "tech"
 topics: CentOS6.x bash_completion Bash

@@ -1,5 +1,5 @@
 ---
-title: "Munin で複数サーバのグラフを１つにまとめて表示する方法"
+title: "Munin で複数サーバのグラフを１つにまとめて表示す"
 emoji: "📝"
 type: "tech"
 topics: Munin Vagrant CentOS6.5

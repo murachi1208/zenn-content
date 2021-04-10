@@ -1,5 +1,5 @@
 ---
-title: "MariaDB でクラスタ化してみる（MariaDB 10.0 Galera Cluster, CentOS 6.5）のを調査した結果のメモメモ"
+title: "MariaDB でクラスタ化してみる（MariaDB 10.0 Galera Cluster, "
 emoji: "📝"
 type: "tech"
 topics: mariadb Galera

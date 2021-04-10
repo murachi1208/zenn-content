@@ -1,5 +1,5 @@
 ---
-title: "いまさら GitBucket を、3分で動かす環境作り（windowsもokだぜ）"
+title: "いまさら GitBucket を、3分で動かす環境作り（windowsも"
 emoji: "📝"
 type: "tech"
 topics: GitBucket Windows CentOS
