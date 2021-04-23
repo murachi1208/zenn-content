@@ -1,5 +1,5 @@
 ---
-title: "Vagrant で CentOS6.6, LVS (IPVS) の NAT 転送方法をためして"
+title: "Vagrant で CentOS6.6, LVS (IPVS) の NAT 転送方法をためしてみる, その１"
 emoji: "📝"
 type: "tech"
 topics: LVS
