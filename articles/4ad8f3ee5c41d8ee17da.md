@@ -1,5 +1,5 @@
 ---
-title: "踏み台経由でMySQLにアクセスする方法、多段sshトン"
+title: "踏み台経由でMySQLにアクセスする方法、多段sshトンネリング"
 emoji: "📝"
 type: "tech"
 topics: sshトンネリング MySQL
